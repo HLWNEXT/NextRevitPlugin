@@ -1,0 +1,18 @@
+C:\Users\whutk\source\repos\RevitPlugin\bin\Debug\RevitPlugin.dll
+C:\Users\whutk\source\repos\RevitPlugin\bin\Debug\RevitPlugin.pdb
+C:\Users\whutk\source\repos\RevitPlugin\obj\Debug\RevitPlugin.csprojAssemblyReference.cache
+C:\Users\whutk\source\repos\RevitPlugin\obj\Debug\RevitPlugin.csproj.CoreCompileInputs.cache
+C:\Users\whutk\source\repos\RevitPlugin\obj\Debug\RevitPlugin.dll
+C:\Users\whutk\source\repos\RevitPlugin\obj\Debug\RevitPlugin.pdb
+C:\Users\cwang\OneDrive - HLW International LLP\Documents\Git\RevitPlugin\RevitPlugin\bin\Debug\RevitPlugin.dll
+C:\Users\cwang\OneDrive - HLW International LLP\Documents\Git\RevitPlugin\RevitPlugin\bin\Debug\RevitPlugin.pdb
+C:\Users\cwang\OneDrive - HLW International LLP\Documents\Git\RevitPlugin\RevitPlugin\obj\Debug\RevitPlugin.csproj.AssemblyReference.cache
+C:\Users\cwang\OneDrive - HLW International LLP\Documents\Git\RevitPlugin\RevitPlugin\obj\Debug\RevitPlugin.csproj.CoreCompileInputs.cache
+C:\Users\cwang\OneDrive - HLW International LLP\Documents\Git\RevitPlugin\RevitPlugin\obj\Debug\RevitPlugin.dll
+C:\Users\cwang\OneDrive - HLW International LLP\Documents\Git\RevitPlugin\RevitPlugin\obj\Debug\RevitPlugin.pdb
+C:\Users\cwang\OneDrive - HLW International LLP\Documents\Git\RevitPlugin\bin\Debug\RevitPlugin.dll
+C:\Users\cwang\OneDrive - HLW International LLP\Documents\Git\RevitPlugin\bin\Debug\RevitPlugin.pdb
+C:\Users\cwang\OneDrive - HLW International LLP\Documents\Git\RevitPlugin\obj\Debug\RevitPlugin.csproj.AssemblyReference.cache
+C:\Users\cwang\OneDrive - HLW International LLP\Documents\Git\RevitPlugin\obj\Debug\RevitPlugin.csproj.CoreCompileInputs.cache
+C:\Users\cwang\OneDrive - HLW International LLP\Documents\Git\RevitPlugin\obj\Debug\RevitPlugin.dll
+C:\Users\cwang\OneDrive - HLW International LLP\Documents\Git\RevitPlugin\obj\Debug\RevitPlugin.pdb
